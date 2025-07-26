@@ -36,10 +36,10 @@ This project simulates Ola ride data across Bengaluru and focuses on:
 ## 📁 Files Included
  
 - `Ola-Slidesuhub.pptx` – Dashboard UI concepts
-- `Ola Dashboards pdf` – Dashboard UI  
+- `Ola Power Bi Dashboard` – Dashboard UI  
 - `Ola power bi dashboard.pbix` – Power BI report
 - `Booking-100000-Rows.xlsx` – Excel Dataset  
-- `README.md` – This file
+- `README.md` – Readme file
 
 ---
 
